@@ -9,4 +9,4 @@ For the first phase of the project, we are to work on the component of uploading
 
 The main programming language for this project are javascript and PHP
 
-The main frameworks used for the porject are laravel and vue.js
+The main frameworks used for the porject are laravel version 0.6  and vue.js
