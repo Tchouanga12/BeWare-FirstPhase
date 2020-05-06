@@ -16,3 +16,5 @@ Inorder to get laravel into you follow this link https://laravel.com/docs/7.x/ho
 The link to get vue.js https://vuejs.org/
 
 In case you are getting issues in installing laravel contact this whatsApp number +237656774424
+
+I love beware
