@@ -13,4 +13,6 @@ The main frameworks used for the porject are laravel version 0.6  and vue.js
 
 Inorder to get laravel into you follow this link https://laravel.com/docs/7.x/homestead
 
+The link to get vue.js https://vuejs.org/
+
 In case you are getting issues in installing laravel contact this whatsApp number +237656774424
